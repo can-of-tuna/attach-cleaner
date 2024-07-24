@@ -1,0 +1,23 @@
+ 
+
+ Checking file system on E :
+ The type of the file system is FAT32.
+
+
+One of your disks needs to be checked for consistency.You
+may cancel the disk check, but it is strongly recommended
+that you continue.
+Windows will now check the disk.
+Volume Serial Number is D89C - 7FB7
+
+Windows has scanned the file system and found no problems.
+No further action is required.
+30296064 KB total disk space.
+528 KB in 5 hidden files.
+1968 KB in 123 folders.
+143616 KB in 307 files.
+30149936 KB are available.
+
+16384 bytes in each allocation unit.
+1893504 total allocation units on disk.
+1884371 allocation units available on disk.
